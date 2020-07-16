@@ -1,0 +1,423 @@
+Specimen #,Site,SiteID,Latitude,Longitude,Treatment,Date,Initials of Experimenter,Berry Mass,Plant Richness,Form Normal (Y/N),Notes
+86551,Beacon_Food_Forest,site_3,47.57,-122.316,B,8/21/16,EHB,6.2766,19,N,Catfaced
+63490,Beacon_Food_Forest,site_3,47.57,-122.316,B,8/22/16,EHB,8.4933,19,Y,None
+83009,Beacon_Food_Forest,site_3,47.57,-122.316,B,8/23/16,EHB,5.743,19,Y,None
+26586,Beacon_Food_Forest,site_3,47.57,-122.316,B,8/23/16,EHB,2.0601,19,N,Catfaced
+83009,Beacon_Food_Forest,site_3,47.57,-122.316,B,8/24/16,EHB,3.2218,19,N,Nipple
+71150,Beacon_Food_Forest,site_3,47.57,-122.316,B,8/24/16,EHB,6.3097,19,N,Nipple
+90470,Beacon_Food_Forest,site_3,47.57,-122.316,B,9/27/16,KB,5.8911,19,N,Minor dent on bottom
+21739,Beacon_Food_Forest,site_3,47.57,-122.316,B,9/27/16,KB,8.4815,19,Y,Nice uniform shape
+21174,Beacon_Food_Forest,site_3,47.57,-122.316,B,9/28/16,KB,4.259,19,N,Catfaced and dented
+21739,Beacon_Food_Forest,site_3,47.57,-122.316,B,9/29/16,KB,3.3104,19,Y,Normal small (2 of 2)
+54929,Beacon_Food_Forest,site_3,47.57,-122.316,B,10/3/16,EB,1.2332,19,N,Catface
+68508,Beacon_Food_Forest,site_3,47.57,-122.316,O,8/21/16,EHB,4.6106,19,N,Dent (minor)
+89147,Beacon_Food_Forest,site_3,47.57,-122.316,O,8/21/16,EHB,2.4463,19,N,Catfaced
+89147,Beacon_Food_Forest,site_3,47.57,-122.316,O,8/22/16,EHB,4.5206,19,N,Catfaced
+22686,Beacon_Food_Forest,site_3,47.57,-122.316,O,8/22/16,EHB,6.0265,19,Y,None
+21253,Beacon_Food_Forest,site_3,47.57,-122.316,O,8/23/16,EHB,5.3888,19,Y,None
+52541,Beacon_Food_Forest,site_3,47.57,-122.316,O,8/23/16,EHB,9.1434,19,Y,None
+44109,Beacon_Food_Forest,site_3,47.57,-122.316,O,8/24/16,EHB,4.902,19,Y,None
+3530,Beacon_Food_Forest,site_3,47.57,-122.316,O,9/29/16,KB,2.245,19,N,Eggplant shaped
+67571,Caliope,site_5,47.057,-122.97,B,8/9/16,HH,8.3764,#N/A,N,Burn and pinched end of fruit
+98098,Caliope,site_5,47.057,-122.97,B,8/14/16,EHB,7.9112,#N/A,Y,None
+33044,Caliope,site_5,47.057,-122.97,B,8/14/16,EHB,8.019,#N/A,N,Pinched End of Fruit
+41457,Caliope,site_5,47.057,-122.97,B,8/14/16,EHB,2.5536,#N/A,N,Burn
+96310,Caliope,site_5,47.057,-122.97,B,8/14/16,EHB,10.9597,#N/A,N,Pinched End of Fruit
+56955,Caliope,site_5,47.057,-122.97,B,8/14/16,EHB,5.1668,#N/A,Y,None
+38910,Caliope,site_5,47.057,-122.97,B,10/15/16,EB,7.3335,#N/A,N,Dent and dessicated
+69663,Caliope,site_5,47.057,-122.97,B,10/21/16,EB,5.8857,#N/A,N,Catface
+38910,Caliope,site_5,47.057,-122.97,B,10/24/16,EB,5.7755,#N/A,Y,-
+57997,Caliope,site_5,47.057,-122.97,O,8/13/16,HH,12.946,#N/A,N,Fruit Dented
+59269,Caliope,site_5,47.057,-122.97,O,8/13/16,HH,3.0047,#N/A,N,Burn
+59269,Caliope,site_5,47.057,-122.97,O,8/13/16,HH,3.3542,#N/A,N,Burn
+57997,Caliope,site_5,47.057,-122.97,O,8/14/16,EHB,7.996,#N/A,Y,None
+73579,Caliope,site_5,47.057,-122.97,O,8/14/16,EHB,6.0667,#N/A,N,Slight pinch near end
+71564,Caliope,site_5,47.057,-122.97,O,8/14/16,EHB,5.1364,#N/A,Y,None
+24865,Caliope,site_5,47.057,-122.97,O,8/14/16,EHB,10.003,#N/A,Y,None
+24865,Caliope,site_5,47.057,-122.97,O,8/14/16,EHB,4.5793,#N/A,Y,None
+78359,Caliope,site_5,47.057,-122.97,O,8/14/16,EHB,7.9086,#N/A,N,Fruit Dented and Nipple at End
+98055,Caliope,site_5,47.057,-122.97,O,10/15/16,EB,15.0406,#N/A,Y,-
+34963,Camp_Korey,site_6,47.678,-121.949,B,8/15/16,EHB,7.997,10,Y,None
+56655,Camp_Korey,site_6,47.678,-121.949,B,8/15/16,EHB,3.462,10,Y,None
+56655,Camp_Korey,site_6,47.678,-121.949,B,8/15/16,EHB,4.2128,10,N,Dessicated
+47897,Camp_Korey,site_6,47.678,-121.949,B,8/15/16,EHB,2.5996,10,N,Burn
+47897,Camp_Korey,site_6,47.678,-121.949,B,8/16/16,EHB,1.3565,10,N,Dessicated
+89796,Camp_Korey,site_6,47.678,-121.949,B,8/17/16,EHB,3.715,10,Y,None
+76870,Camp_Korey,site_6,47.678,-121.949,B,8/18/16,EHB,7.6593,10,N,One large lateral dent
+83008,Camp_Korey,site_6,47.678,-121.949,B,8/19/16,EHB,1.8976,10,N,Catfaced
+56655,Camp_Korey,site_6,47.678,-121.949,B,8/21/16,EHB,3.6184,10,N,Catfaced
+24927,Camp_Korey,site_6,47.678,-121.949,B,9/17/16,EHB,3.2467,10,N,Catfaced
+12504,Camp_Korey,site_6,47.678,-121.949,B,9/17/16,EHB,5.4695,10,N,Small catface
+7386,Camp_Korey,site_6,47.678,-121.949,B,9/27/16,KB,2.3739,10,N,"Mushy, oblong fat bottom, skinny top"
+56680,Camp_Korey,site_6,47.678,-121.949,O,8/16/16,EHB,5.3248,10,Y,None
+88975,Camp_Korey,site_6,47.678,-121.949,O,8/16/16,EHB,4.1316,10,Y,Burn
+63924,Camp_Korey,site_6,47.678,-121.949,O,8/18/16,EHB,5.7221,10,N,Slight terminal nipple
+74794,Camp_Korey,site_6,47.678,-121.949,O,8/18/16,EHB,4.5101,10,N,Slight terminal pinch
+9561,Camp_Korey,site_6,47.678,-121.949,O,8/18/16,EHB,3.2258,10,N,Many lateral dents
+9561,Camp_Korey,site_6,47.678,-121.949,O,8/18/16,EHB,4.7266,10,N,Many lateral dents
+43984,Camp_Korey,site_6,47.678,-121.949,O,8/18/16,EHB,5.4258,10,Y,None
+90514,Camp_Korey,site_6,47.678,-121.949,O,9/16/16,EHB,5.0162,10,Y,None
+14339,Camp_Korey,site_6,47.678,-121.949,O,9/16/16,EHB,4.5638,10,N,Dents
+74650,Camp_Korey,site_6,47.678,-121.949,O,9/17/16,EHB,6.7743,10,N,Small dents
+14339,Camp_Korey,site_6,47.678,-121.949,O,9/18/16,EHB,3.2696,10,N,Catfaced
+72828,Greenhouse,,,,H,8/2/16,EHB,10.3758,#N/A,N,Pinched End of Fruit
+29071,Greenhouse,,,,H,8/3/16,EHB,6.9303,#N/A,N,Pinched Top of Fruit
+29071,Greenhouse,,,,H,8/3/16,EHB,5.2668,#N/A,N,Pinched End of Fruit
+39606,Greenhouse,,,,H,8/3/16,EHB,5.2353,#N/A,N,Pinched End of Fruit
+72828,Greenhouse,,,,H,8/3/16,EHB,8.2267,#N/A,Y,None
+1880,Greenhouse,,,,H,8/4/16,EHB,4.4823,#N/A,Y,None
+24957,Greenhouse,,,,H,8/5/16,HH,1.2335,#N/A,N,Burn (and small)
+61807,Greenhouse,,,,H,8/6/16,HH,2.0313,#N/A,N,Burn
+48681,Greenhouse,,,,H,8/6/16,HH,3.588,#N/A,N,Burn and pinched end of fruit
+1880,Greenhouse,,,,H,8/7/16,HH,7.7031,#N/A,N,Burn and dented
+44078,Greenhouse,,,,H,8/9/16,HH,7.8362,#N/A,N,Burn and dented
+1880,Greenhouse,,,,H,8/11/16,HH,4.9728,#N/A,Y,None
+83088,Greenhouse,,,,H,8/12/16,HH,2.3965,#N/A,N,Fruit Dented and Pinched
+83088,Greenhouse,,,,H,8/12/16,HH,3.824,#N/A,N,Burn
+19706,Greenhouse,,,,H,8/12/16,HH,2.753,#N/A,N,Burn
+19706,Greenhouse,,,,H,8/12/16,HH,3.1721,#N/A,N,Burn
+19706,Greenhouse,,,,H,8/12/16,HH,5.1998,#N/A,N,Burn and pinched end of fruit
+61807,Greenhouse,,,,H,8/13/16,HH,6.6901,#N/A,N,Burn
+24957,Greenhouse,,,,H,8/14/16,EHB,2.8863,#N/A,Y,None
+65620,Greenhouse,,,,H,8/14/16,EHB,11.0017,#N/A,Y,None
+73679,Greenhouse,,,,H,8/14/16,EHB,6.0985,#N/A,N,Nippled End
+36924,Greenhouse,,,,H,8/14/16,EHB,6.0789,#N/A,N,Pinched End of Fruit
+42251,Greenhouse,,,,H,8/14/16,EHB,5.2506,#N/A,N,Burn
+11893,Greenhouse,,,,H,8/14/16,EHB,6.5026,#N/A,N,Pinched End of Fruit
+4068,Greenhouse,,,,H,8/14/16,EHB,8.999,#N/A,N,Slight nippling
+98272,Greenhouse,,,,H,8/14/16,EHB,8.2058,#N/A,N,Slight nippling
+19775,Greenhouse,,,,H,8/14/16,EHB,4.471,#N/A,N,Dents
+4192,Greenhouse,,,,H,8/14/16,EHB,4.871,#N/A,Y,Dessicated
+4192,Greenhouse,,,,H,8/14/16,EHB,1.6237,#N/A,N,Burn
+93585,Greenhouse,,,,H,8/14/16,EHB,1.5533,#N/A,N,Dessicated
+96825,Greenhouse,,,,H,8/14/16,EHB,6.6776,#N/A,N,Pinched End of Fruit
+8011,Greenhouse,,,,H,8/14/16,EHB,8.6304,#N/A,Y,None
+91899,Greenhouse,,,,H,8/14/16,EHB,5.651,#N/A,N,Dents
+91899,Greenhouse,,,,H,8/14/16,EHB,8.5277,#N/A,N,Nippled End
+50002,Greenhouse,,,,H,8/14/16,EHB,2.1613,#N/A,N,Burn
+39829,Greenhouse,,,,H,8/14/16,EHB,5.7926,#N/A,Y,None
+13853,Greenhouse,,,,H,8/14/16,EHB,5.5662,#N/A,Y,None
+13853,Greenhouse,,,,H,8/14/16,EHB,6.2543,#N/A,Y,None
+93088,Greenhouse,,,,H,8/14/16,EHB,4.2551,#N/A,Y,None
+93088,Greenhouse,,,,H,8/14/16,EHB,3.7324,#N/A,Y,None
+10247,Greenhouse,,,,H,8/14/16,EHB,5.3277,#N/A,Y,None
+83252,Greenhouse,,,,H,8/14/16,EHB,5.811,#N/A,N,Burn
+4446,Greenhouse,,,,H,8/15/16,EHB,4.5512,#N/A,Y,None
+50002,Greenhouse,,,,H,8/15/16,EHB,5.6896,#N/A,N,Dessicated
+78775,Greenhouse,,,,H,8/15/16,EHB,1.2178,#N/A,N,Burn
+78775,Greenhouse,,,,H,8/15/16,EHB,5.9108,#N/A,N,Burn/Pinch/Dessication
+6689,Greenhouse,,,,H,8/15/16,EHB,6.6484,#N/A,N,Dent
+22561,Greenhouse,,,,H,8/15/16,EHB,4.1561,#N/A,Y,None
+22561,Greenhouse,,,,H,8/15/16,EHB,6.54,#N/A,Y,None
+18165,Greenhouse,,,,H,8/15/16,EHB,7.877,#N/A,Y,None
+80566,Greenhouse,,,,H,8/16/16,EHB,3.419,#N/A,Y,Burn
+66911,Greenhouse,,,,H,8/16/16,EHB,5.6634,#N/A,N,Dent/Bump
+70428,Greenhouse,,,,H,8/19/16,EHB,3.2529,#N/A,Y,None
+22561,Greenhouse,,,,H,8/19/16,EHB,6.3334,#N/A,Y,None
+52069,Greenhouse,,,,H,8/21/16,EHB,3.8688,#N/A,N,Nipple/Dent near tip
+66911,Greenhouse,,,,H,8/21/16,EHB,4.3727,#N/A,N,Catfaced
+67881,Greenhouse,,,,H,8/21/16,EHB,5.8889,#N/A,N,Pinch/Dent near tip
+20095,Greenhouse,,,,H,8/22/16,EHB,4.2171,#N/A,N,Cleft tip
+51184,Greenhouse,,,,H,8/23/16,EHB,3.9991,#N/A,N,Catfaced
+22832,Greenhouse,,,,H,8/23/16,EHB,7.1498,#N/A,N,Slight dent
+65475,Greenhouse,,,,H,8/23/16,EHB,7.0324,#N/A,N,Nipple
+20095,Greenhouse,,,,H,8/24/16,EHB,3.1169,#N/A,N,Catfaced
+29481,Greenhouse,,,,H,9/17/16,EHB,2.4289,#N/A,N,Small pinch/catface
+92749,Greenhouse,,,,H,9/17/16,EHB,4.5184,#N/A,N,Slight nippling
+49442,Greenhouse,,,,H,9/17/16,EHB,3.6172,#N/A,N,Slight nippling
+5019,Greenhouse,,,,H,9/17/16,EHB,1.3037,#N/A,N,Catface
+2756,Greenhouse,,,,H,9/17/16,EHB,3.188,#N/A,N,Small catface
+77206,Greenhouse,,,,H,9/18/16,EHB,4.5634,#N/A,N,Catfaced
+9085,Greenhouse,,,,H,9/20/16,EHB,0.8822,#N/A,N,Catfaced
+2756,Greenhouse,,,,H,9/22/16,EHB,2.5224,#N/A,N,Side catface
+54495,Greenhouse,,,,H,9/22/16,EHB,6.3905,#N/A,N,Catface major
+35995,Greenhouse,,,,H,9/28/16,KB,8.244,#N/A,N,Catfaced
+9446,Greenhouse,,,,H,9/28/16,KB,1.4137,#N/A,N,Small and catfaced
+67051,Greenhouse,,,,H,10/1/16,EB,0.1856,#N/A,N,Small dried up (should have been picked earlier)
+3463,Greenhouse,,,,H,10/2/16,EB,6.2102,#N/A,N,Pinched tip
+55743,Greenhouse,,,,H,10/2/16,EB,6.7139,#N/A,N,Slight catface
+67455,Greenhouse,,,,H,10/2/16,EB,4.8001,#N/A,N,Catface
+77823,Greenhouse,,,,H,10/2/16,EB,6.1022,#N/A,N,Large dents
+43089,Greenhouse,,,,H,10/4/16,EB,7.1079,#N/A,N,Catface
+41214,Greenhouse,,,,H,10/5/16,EB,1.6059,#N/A,N,Catface
+12277,Greenhouse,,,,H,10/6/16,EB,7.9432,#N/A,N,Small catface
+12734,Greenhouse,,,,H,10/9/16,EB,0.9593,#N/A,N,Catface side
+45627,Greenhouse,,,,H,10/13/16,EB,2.7601,#N/A,N,Large dent
+15130,Greenhouse,,,,H,10/14/16,EB,12.7183,#N/A,N,Catface
+61187,Greenhouse,,,,H,10/14/16,EB,0.2367,#N/A,N,One receptacle ripened
+47332,Greenhouse,,,,H,10/14/16,EB,3.0332,#N/A,N,Catface and dessicated before ripened
+29933,Greenhouse,,,,H,10/17/16,EB,9.5168,#N/A,N,Small catface
+29933,Greenhouse,,,,H,10/17/16,EB,8.6737,#N/A,N,Small dents
+29933,Greenhouse,,,,H,10/17/16,EB,10.9216,#N/A,N,Small catface
+15130,Greenhouse,,,,H,10/18/16,EB,15.8404,#N/A,N,Very small catface
+70447,Greenhouse,,,,H,10/21/16,EB,6.4166,#N/A,N,Catface
+21452,GRuB,site_7,47.063,-122.926,B,8/14/16,EHB,1.0107,10,N,Burn
+2015,GRuB,site_7,47.063,-122.926,B,8/14/16,EHB,3.7072,10,Y,None
+27717,GRuB,site_7,47.063,-122.926,B,8/14/16,EHB,0.8725,10,N,Burn
+65294,GRuB,site_7,47.063,-122.926,B,8/14/16,EHB,3.3296,10,N,Pinched End of Fruit
+16233,GRuB,site_7,47.063,-122.926,B,8/14/16,EHB,6.5111,10,Y,None
+2015,GRuB,site_7,47.063,-122.926,B,8/15/16,EHB,3.6292,10,N,Burn
+5790,GRuB,site_7,47.063,-122.926,B,10/5/16,EB,10.1767,10,N,Catface
+99979,GRuB,site_7,47.063,-122.926,B,10/6/16,EB,9.0798,10,N,Dents
+99979,GRuB,site_7,47.063,-122.926,B,10/6/16,EB,3.0156,10,Y,-
+43235,GRuB,site_7,47.063,-122.926,B,10/6/16,EB,9.3381,10,N,Nipple
+70591,GRuB,site_7,47.063,-122.926,B,10/9/16,EB,1.114,10,N,Split
+63807,GRuB,site_7,47.063,-122.926,B,10/9/16,EB,10.4825,10,N,Nipple catface
+12568,GRuB,site_7,47.063,-122.926,O,8/14/16,EHB,4.7046,10,N,Pinched End of Fruit
+44762,GRuB,site_7,47.063,-122.926,O,8/14/16,EHB,6.5856,10,Y,None
+44762,GRuB,site_7,47.063,-122.926,O,8/14/16,EHB,6.6192,10,Y,None
+50251,GRuB,site_7,47.063,-122.926,O,8/14/16,EHB,5.7914,10,Y,None
+80502,GRuB,site_7,47.063,-122.926,O,8/14/16,EHB,8.8987,10,Y,None
+80502,GRuB,site_7,47.063,-122.926,O,8/14/16,EHB,8.6381,10,Y,None
+68937,GRuB,site_7,47.063,-122.926,O,8/14/16,EHB,1.8266,10,N,Burn
+9575,GRuB,site_7,47.063,-122.926,O,8/14/16,EHB,3.808,10,N,Burn
+70491,GRuB,site_7,47.063,-122.926,O,10/1/16,EB,13.967,10,Y,-
+2051,GRuB,site_7,47.063,-122.926,O,10/2/16,EB,7.9941,10,Y,-
+13123,GRuB,site_7,47.063,-122.926,O,10/3/16,EB,6.3551,10,N,Small dent
+91464,GRuB,site_7,47.063,-122.926,O,10/6/16,EB,10.4952,10,N,Dents
+27947,GRuB,site_7,47.063,-122.926,O,10/6/16,EB,5.9763,10,N,Catface
+2051,GRuB,site_7,47.063,-122.926,O,10/9/16,EB,5.3561,10,N,Dent
+55404,Harmony_Fields,site_8,48.543,-122.413,B,8/3/16,EHB,8.7557,11,N,Pinched End of Fruit
+51301,Harmony_Fields,site_8,48.543,-122.413,B,8/4/16,EHB,4.8395,11,N,Burn
+89892,Harmony_Fields,site_8,48.543,-122.413,B,8/4/16,EHB,8.8921,11,N,Slightly Pinched End of Fruit
+17194,Harmony_Fields,site_8,48.543,-122.413,B,8/7/16,HH,7.1716,11,N,Burn
+68000,Harmony_Fields,site_8,48.543,-122.413,B,8/10/16,HH,10.5813,11,N,Burn
+68000,Harmony_Fields,site_8,48.543,-122.413,B,8/10/16,HH,9.3651,11,N,Fruit Dented
+89613,Harmony_Fields,site_8,48.543,-122.413,B,10/1/16,EB,7.6098,11,Y,-
+15909,Harmony_Fields,site_8,48.543,-122.413,B,10/2/16,EB,6.6662,11,N,Linear dent in side
+15909,Harmony_Fields,site_8,48.543,-122.413,B,10/2/16,EB,8.0842,11,N,Linear dent in side
+49215,Harmony_Fields,site_8,48.543,-122.413,B,10/3/16,EB,6.4107,11,N,Small dent
+89613,Harmony_Fields,site_8,48.543,-122.413,B,10/13/16,EB,5.8052,11,N,Never ripened before becoming soft
+85792,Harmony_Fields,site_8,48.543,-122.413,O,8/2/16,EHB,7.4567,11,Y,None
+83861,Harmony_Fields,site_8,48.543,-122.413,O,8/3/16,EHB,13.7843,11,Y,None
+27295,Harmony_Fields,site_8,48.543,-122.413,O,8/3/16,EHB,10.1988,11,N,Burn
+93774,Harmony_Fields,site_8,48.543,-122.413,O,8/4/16,EHB,3.1759,11,N,Burn
+27295,Harmony_Fields,site_8,48.543,-122.413,O,8/7/16,HH,10.6739,11,Y,None
+27295,Harmony_Fields,site_8,48.543,-122.413,O,8/7/16,HH,3.0022,11,N,Burn and dented
+31871,Harmony_Fields,site_8,48.543,-122.413,O,8/7/16,HH,5.0561,11,N,Fruit Dented
+8695,Harmony_Fields,site_8,48.543,-122.413,O,8/10/16,HH,2.3609,11,N,Burn
+8695,Harmony_Fields,site_8,48.543,-122.413,O,8/10/16,HH,5.8478,11,N,Burn
+63820,Harmony_Fields,site_8,48.543,-122.413,O,10/2/16,EB,7.2959,11,N,Small dents
+47406,Harmony_Fields,site_8,48.543,-122.413,O,10/5/16,EB,8.7198,11,Y,-
+55371,Harmony_Fields,site_8,48.543,-122.413,O,10/7/16,EB,7.1534,11,Y,-
+94575,Harmony_Fields,site_8,48.543,-122.413,O,10/13/16,EB,7.7295,11,N,Never ripened before becoming soft
+2269,Maa_nyei_lai_ndeic,site_13,47.562,-122.303,B,8/13/16,HH,10.4993,#N/A,N,Burn
+45668,Maa_nyei_lai_ndeic,site_13,47.562,-122.303,B,8/14/16,EHB,3.7337,#N/A,N,Burn
+60924,Maa_nyei_lai_ndeic,site_13,47.562,-122.303,B,8/14/16,EHB,7.3922,#N/A,Y,None
+86239,Maa_nyei_lai_ndeic,site_13,47.562,-122.303,B,8/14/16,EHB,3.2367,#N/A,N,Burn
+31447,Maa_nyei_lai_ndeic,site_13,47.562,-122.303,B,9/27/16,KB,9.3444,#N/A,Y,Uniform plump shape
+46553,Maa_nyei_lai_ndeic,site_13,47.562,-122.303,B,9/28/16,KB,5.4113,#N/A,N,Sourfaced with denting
+31447,Maa_nyei_lai_ndeic,site_13,47.562,-122.303,B,9/28/16,KB,5.398,#N/A,N,Minor denting (2 of 2)
+74075,Maa_nyei_lai_ndeic,site_13,47.562,-122.303,B,10/7/16,EB,2.1467,#N/A,N,Catface
+4149,Maa_nyei_lai_ndeic,site_13,47.562,-122.303,O,8/4/16,EHB,3.5846,#N/A,N,Burn
+31632,Maa_nyei_lai_ndeic,site_13,47.562,-122.303,O,8/7/16,HH,2.369,#N/A,N,Burn
+12543,Maa_nyei_lai_ndeic,site_13,47.562,-122.303,O,8/10/16,HH,1.5938,#N/A,N,Burn
+12543,Maa_nyei_lai_ndeic,site_13,47.562,-122.303,O,8/12/16,HH,4.3324,#N/A,N,Burn
+41179,Maa_nyei_lai_ndeic,site_13,47.562,-122.303,O,8/13/16,HH,3.7287,#N/A,N,Burn
+64781,Maa_nyei_lai_ndeic,site_13,47.562,-122.303,O,8/14/16,EHB,5.8719,#N/A,Y,None
+81892,Maa_nyei_lai_ndeic,site_13,47.562,-122.303,O,8/14/16,EHB,3.3957,#N/A,N,Burn
+52213,Maa_nyei_lai_ndeic,site_13,47.562,-122.303,O,9/28/16,KB,2.1334,#N/A,N,Catfaced with dents
+73127,Maa_nyei_lai_ndeic,site_13,47.562,-122.303,O,9/28/16,KB,5.6033,#N/A,N,Minor denting
+4153,Maa_nyei_lai_ndeic,site_13,47.562,-122.303,O,10/1/16,EB,2.3395,#N/A,N,Catface
+35056,New_Holly,site_18,47.543,-122.287,B,8/13/16,HH,3.0427,13,N,Burn
+60192,New_Holly,site_18,47.543,-122.287,B,8/14/16,EHB,1.4141,13,N,Burn
+66057,New_Holly,site_18,47.543,-122.287,B,10/1/16,EB,5.3333,13,N,Small dent
+14306,New_Holly,site_18,47.543,-122.287,B,10/4/16,EB,4.4939,13,N,Small catface
+24224,New_Holly,site_18,47.543,-122.287,O,8/14/16,EHB,5.3596,13,N,Burn
+33844,New_Holly,site_18,47.543,-122.287,O,8/14/16,EHB,5.7604,13,Y,None
+4370,New_Holly,site_18,47.543,-122.287,O,8/14/16,EHB,1.561,13,N,Burn
+44383,New_Holly,site_18,47.543,-122.287,O,9/29/16,KB,2.3937,13,N,Catfaced
+82207,Present_Tense,site_23,47.671,-121.976,B,8/14/16,EHB,1.92,7,N,Burn
+7482,Present_Tense,site_23,47.671,-121.976,B,8/14/16,EHB,4.1478,7,N,Burn
+82207,Present_Tense,site_23,47.671,-121.976,B,8/14/16,EHB,5.7633,7,N,Pinched/Nippled End of Fruit
+48197,Present_Tense,site_23,47.671,-121.976,B,8/14/16,EHB,9.4867,7,N,Dents (minor)
+14755,Present_Tense,site_23,47.671,-121.976,B,8/14/16,EHB,1.3393,7,N,Burn/dessication
+18620,Present_Tense,site_23,47.671,-121.976,B,8/14/16,EHB,8.6718,7,Y,None
+47569,Present_Tense,site_23,47.671,-121.976,B,8/14/16,EHB,5.5499,7,Y,None
+45576,Present_Tense,site_23,47.671,-121.976,B,10/24/16,EB,7.8538,7,Y,-
+95616,Present_Tense,site_23,47.671,-121.976,O,8/10/16,HH,2.8557,7,N,Burn
+67605,Present_Tense,site_23,47.671,-121.976,O,8/14/16,EHB,2.0444,7,N,Catfacing
+93929,Present_Tense,site_23,47.671,-121.976,O,8/14/16,EHB,2.9367,7,Y,None
+34930,Present_Tense,site_23,47.671,-121.976,O,8/14/16,EHB,2.9496,7,N,Burn
+29001,Present_Tense,site_23,47.671,-121.976,O,8/14/16,EHB,2.1613,7,N,Burn
+56712,Present_Tense,site_23,47.671,-121.976,O,8/14/16,EHB,9.6856,7,Y,None
+29001,Present_Tense,site_23,47.671,-121.976,O,8/14/16,EHB,2.2082,7,Y,None
+29001,Present_Tense,site_23,47.671,-121.976,O,8/15/16,EHB,7.9688,7,N,Burn/dessication
+1658,Present_Tense,site_23,47.671,-121.976,O,10/14/16,EB,16.8011,7,Y,-
+4346,Present_Tense,site_23,47.671,-121.976,O,10/15/16,EB,7.4063,7,Y,-
+41925,Present_Tense,site_23,47.671,-121.976,O,10/15/16,EB,14.5348,7,Y,-
+84407,Rainier_Beach_Urban_Farm_and_Wetland,site_24,47.522,-122.259,B,8/21/16,EHB,5.1599,#N/A,N,Dent (minor)
+66233,Rainier_Beach_Urban_Farm_and_Wetland,site_24,47.522,-122.259,B,8/22/16,EHB,4.6607,#N/A,Y,None
+24509,Rainier_Beach_Urban_Farm_and_Wetland,site_24,47.522,-122.259,B,8/24/16,EHB,3.7025,#N/A,N,Nipple
+5680,Rainier_Beach_Urban_Farm_and_Wetland,site_24,47.522,-122.259,B,8/26/16,EHB,2.2226,#N/A,N,Catfaced
+18700,Rainier_Beach_Urban_Farm_and_Wetland,site_24,47.522,-122.259,B,10/1/16,EB,5.291,#N/A,N,Catface
+8341,Rainier_Beach_Urban_Farm_and_Wetland,site_24,47.522,-122.259,B,10/1/16,EB,4.9765,#N/A,N,Dents major
+34329,Rainier_Beach_Urban_Farm_and_Wetland,site_24,47.522,-122.259,B,10/3/16,EB,1.3608,#N/A,N,"Catface, pinched tip"
+43334,Rainier_Beach_Urban_Farm_and_Wetland,site_24,47.522,-122.259,O,8/22/16,EHB,12.4591,#N/A,Y,None
+15372,Rainier_Beach_Urban_Farm_and_Wetland,site_24,47.522,-122.259,O,8/22/16,EHB,3.1887,#N/A,Y,None
+60829,Rainier_Beach_Urban_Farm_and_Wetland,site_24,47.522,-122.259,O,8/23/16,EHB,9.0609,#N/A,N,Slight nippling
+17906,Rainier_Beach_Urban_Farm_and_Wetland,site_24,47.522,-122.259,O,8/28/16,EHB,0.6738,#N/A,N,Burn tip
+68546,Rainier_Beach_Urban_Farm_and_Wetland,site_24,47.522,-122.259,O,9/29/16,KB,5.0823,#N/A,N,Sour faced with dents
+6362,Rainier_Beach_Urban_Farm_and_Wetland,site_24,47.522,-122.259,O,10/1/16,EB,1.1075,#N/A,N,Small dent
+86669,Rising_River,site_25,46.801,-123.159,B,8/6/16,HH,7.3082,9,N,Fruit Dented and burn
+666,Rising_River,site_25,46.801,-123.159,B,8/7/16,HH,4.273,9,N,Fruit Dented and Pinched
+62528,Rising_River,site_25,46.801,-123.159,B,8/10/16,HH,10.8268,9,N,Fruit Dented
+38448,Rising_River,site_25,46.801,-123.159,B,8/11/16,HH,8.2297,9,N,Fruit Dented
+65322,Rising_River,site_25,46.801,-123.159,B,8/13/16,HH,15.1096,9,Y,None
+62566,Rising_River,site_25,46.801,-123.159,B,9/21/16,EHB,5.0366,9,N,Small dents
+14211,Rising_River,site_25,46.801,-123.159,B,9/23/16,KB,5.1208,9,N,Dents (minor)
+74122,Rising_River,site_25,46.801,-123.159,B,9/26/16,KB,2.057,9,N,Denting throughout
+19176,Rising_River,site_25,46.801,-123.159,B,9/27/16,KB,0.7121,9,N,"Heart shaped, small"
+12147,Rising_River,site_25,46.801,-123.159,O,8/2/16,EHB,8.5892,9,Y,None
+12147,Rising_River,site_25,46.801,-123.159,O,8/4/16,EHB,7.5382,9,Y,None
+7682,Rising_River,site_25,46.801,-123.159,O,8/4/16,EHB,3.2422,9,N,Burn
+53833,Rising_River,site_25,46.801,-123.159,O,8/7/16,HH,4.6589,9,N,Pinched End of Fruit
+53833,Rising_River,site_25,46.801,-123.159,O,8/7/16,HH,9.5342,9,N,Pinched End of Fruit
+47829,Rising_River,site_25,46.801,-123.159,O,8/12/16,HH,6.0876,9,N,Pinched End of Fruit
+47829,Rising_River,site_25,46.801,-123.159,O,8/12/16,HH,11.9647,9,Y,None
+35289,Rising_River,site_25,46.801,-123.159,O,8/13/16,HH,6.0031,9,N,Burn
+35289,Rising_River,site_25,46.801,-123.159,O,8/13/16,HH,5.4647,9,N,Burn
+42123,Rising_River,site_25,46.801,-123.159,O,8/13/16,HH,6.9719,9,N,Burn
+42123,Rising_River,site_25,46.801,-123.159,O,8/13/16,HH,8.5721,9,N,Burn
+87932,Rising_River,site_25,46.801,-123.159,O,9/17/16,EHB,9.0942,9,Y,None
+65989,Rising_River,site_25,46.801,-123.159,O,9/23/16,KB,3.3133,9,N,Denting throughout
+12990,Rising_River,site_25,46.801,-123.159,O,9/28/16,KB,1.2591,9,N,Oblong and pointy at bottom
+5960,Riversong_Farm,site_26,48.435,-122.394,B,8/3/16,EHB,5.8806,10,Y,None
+80070,Riversong_Farm,site_26,48.435,-122.394,B,8/4/16,EHB,3.4089,10,N,Burn
+6119,Riversong_Farm,site_26,48.435,-122.394,B,8/4/16,EHB,5.3246,10,N,Burn
+55815,Riversong_Farm,site_26,48.435,-122.394,B,8/4/16,EHB,2.3896,10,N,Burn
+78968,Riversong_Farm,site_26,48.435,-122.394,B,8/5/16,HH,6.1648,10,N,Pinched End of Fruit (and small)
+55815,Riversong_Farm,site_26,48.435,-122.394,B,8/8/16,HH,2.7547,10,N,Burn
+9280,Riversong_Farm,site_26,48.435,-122.394,B,8/12/16,HH,7.3386,10,N,Fruit Dented and Pinched
+8412,Riversong_Farm,site_26,48.435,-122.394,B,10/4/16,EB,7.4243,10,Y,-
+17944,Riversong_Farm,site_26,48.435,-122.394,B,10/4/16,EB,4.8535,10,N,Catface
+94159,Riversong_Farm,site_26,48.435,-122.394,B,10/5/16,EB,9.1173,10,N,Catface
+81753,Riversong_Farm,site_26,48.435,-122.394,B,10/6/16,EB,8.2024,10,Y,-
+2376,Riversong_Farm,site_26,48.435,-122.394,B,10/9/16,EB,4.0517,10,Y,-
+46631,Riversong_Farm,site_26,48.435,-122.394,O,8/2/16,EHB,11.6377,10,Y,None
+57156,Riversong_Farm,site_26,48.435,-122.394,O,8/4/16,EHB,3.0014,10,N,Burn
+57156,Riversong_Farm,site_26,48.435,-122.394,O,8/4/16,EHB,2.6396,10,N,Burn
+25964,Riversong_Farm,site_26,48.435,-122.394,O,8/4/16,EHB,4.6546,10,N,Burn
+69600,Riversong_Farm,site_26,48.435,-122.394,O,8/4/16,EHB,2.0579,10,N,Burn
+46631,Riversong_Farm,site_26,48.435,-122.394,O,8/6/16,HH,4.6799,10,N,Burn
+69600,Riversong_Farm,site_26,48.435,-122.394,O,8/6/16,HH,1.8078,10,N,Burn
+58489,Riversong_Farm,site_26,48.435,-122.394,O,8/6/16,HH,3.01,10,N,Burn
+11788,Riversong_Farm,site_26,48.435,-122.394,O,8/7/16,HH,4.9395,10,Y,None
+11788,Riversong_Farm,site_26,48.435,-122.394,O,8/7/16,HH,5.6551,10,N,Burn
+25964,Riversong_Farm,site_26,48.435,-122.394,O,8/13/16,HH,0.6213,10,N,Burn and pinched end of fruit
+83865,Riversong_Farm,site_26,48.435,-122.394,O,10/1/16,EB,6.0189,10,Y,-
+85079,Riversong_Farm,site_26,48.435,-122.394,O,10/5/16,EB,6.8539,10,Y,-
+29005,Riversong_Farm,site_26,48.435,-122.394,O,10/6/16,EB,6.2127,10,Y,-
+46801,Riversong_Farm,site_26,48.435,-122.394,O,10/13/16,EB,6.2241,10,N,Never ripened before becoming soft
+51984,Riversong_Farm,site_26,48.435,-122.394,O,10/13/16,EB,2.2956,10,N,Large dent
+59342,Sol_to_Seed,site_29,47.611,-121.937,B,8/15/16,EHB,7.2467,9,Y,None
+89213,Sol_to_Seed,site_29,47.611,-121.937,B,8/15/16,EHB,2.2819,9,N,Burn
+55442,Sol_to_Seed,site_29,47.611,-121.937,B,8/16/16,EHB,6.5667,9,Y,None
+20456,Sol_to_Seed,site_29,47.611,-121.937,B,8/16/16,EHB,6.0753,9,N,Dent
+50825,Sol_to_Seed,site_29,47.611,-121.937,B,8/16/16,EHB,0.5617,9,N,Catface/Dessication
+80377,Sol_to_Seed,site_29,47.611,-121.937,B,8/17/16,EHB,4.3395,9,N,Dents (minor)
+71800,Sol_to_Seed,site_29,47.611,-121.937,B,9/16/16,EHB,6.72,9,N,Nipple/pinched end
+18445,Sol_to_Seed,site_29,47.611,-121.937,B,9/16/16,EHB,4.6207,9,Y,None
+57523,Sol_to_Seed,site_29,47.611,-121.937,B,9/17/16,EHB,2.3417,9,N,Catfaced
+71574,Sol_to_Seed,site_29,47.611,-121.937,B,9/20/16,EHB,2.3949,9,N,Catfaced
+2584,Sol_to_Seed,site_29,47.611,-121.937,O,8/15/16,EHB,4.6302,9,N,Dent
+3969,Sol_to_Seed,site_29,47.611,-121.937,O,8/16/16,EHB,5.368,9,N,Pinched End of Fruit
+51383,Sol_to_Seed,site_29,47.611,-121.937,O,8/18/16,EHB,4.879,9,N,Slight terminal pinch
+46875,Sol_to_Seed,site_29,47.611,-121.937,O,8/19/16,EHB,1.4509,9,N,Nippled End
+28968,Sol_to_Seed,site_29,47.611,-121.937,O,8/19/16,EHB,0.2917,9,N,Catfaced (small)
+46875,Sol_to_Seed,site_29,47.611,-121.937,O,8/21/16,EHB,0.829,9,N,Nippled End
+51383,Sol_to_Seed,site_29,47.611,-121.937,O,8/22/16,EHB,2.5319,9,N,Pinched tip
+74031,Sol_to_Seed,site_29,47.611,-121.937,O,9/16/16,EHB,3.6061,9,Y,None
+11647,Sol_to_Seed,site_29,47.611,-121.937,O,9/21/16,EHB,6.7803,9,N,Catfaced
+21376,Sol_to_Seed,site_29,47.611,-121.937,O,9/21/16,EHB,5.6803,9,N,Side catface
+70625,Steel_Wheel,site_30,47.583,-121.916,B,8/13/16,HH,2.0518,10,N,Burn
+70625,Steel_Wheel,site_30,47.583,-121.916,B,8/13/16,HH,2.0632,10,N,Burn
+47719,Steel_Wheel,site_30,47.583,-121.916,B,8/14/16,EHB,1.3762,10,N,Burn/dessication
+47719,Steel_Wheel,site_30,47.583,-121.916,B,8/14/16,EHB,1.682,10,Y,None
+44625,Steel_Wheel,site_30,47.583,-121.916,B,8/14/16,EHB,8.7287,10,Y,None
+34461,Steel_Wheel,site_30,47.583,-121.916,B,8/14/16,EHB,2.2993,10,N,Burn/dessication
+92328,Steel_Wheel,site_30,47.583,-121.916,B,8/14/16,EHB,0.9552,10,N,Burn
+45771,Steel_Wheel,site_30,47.583,-121.916,B,10/21/16,EB,10.593,10,Y,-
+69940,Steel_Wheel,site_30,47.583,-121.916,B,10/21/16,EB,11.1559,10,N,Dents
+69940,Steel_Wheel,site_30,47.583,-121.916,B,10/24/16,EB,9.4628,10,N,Catface
+95928,Steel_Wheel,site_30,47.583,-121.916,O,8/14/16,EHB,3.5344,10,N,Pinched End of Fruit
+30950,Steel_Wheel,site_30,47.583,-121.916,O,8/14/16,EHB,2.9188,10,Y,None
+30950,Steel_Wheel,site_30,47.583,-121.916,O,8/14/16,EHB,4.2961,10,Y,None
+30950,Steel_Wheel,site_30,47.583,-121.916,O,8/14/16,EHB,12.6322,10,N,Nippled End
+38811,Steel_Wheel,site_30,47.583,-121.916,O,8/14/16,EHB,4.9938,10,Y,None
+45990,Steel_Wheel,site_30,47.583,-121.916,O,8/14/16,EHB,5.5911,10,Y,None
+82709,Steel_Wheel,site_30,47.583,-121.916,O,8/14/16,EHB,2.7997,10,Y,Dessicated
+82709,Steel_Wheel,site_30,47.583,-121.916,O,8/14/16,EHB,1.458,10,N,Burn
+82709,Steel_Wheel,site_30,47.583,-121.916,O,8/14/16,EHB,1.1721,10,N,Burn
+45990,Steel_Wheel,site_30,47.583,-121.916,O,8/14/16,EHB,3.6376,10,Y,None
+65245,Steel_Wheel,site_30,47.583,-121.916,O,10/15/16,EB,14.4872,10,Y,-
+85222,Steel_Wheel,site_30,47.583,-121.916,O,10/24/16,EB,5.309,10,N,Small dents
+38234,The_Evergreen_State_College,site_31,47.065,-122.984,B,8/9/16,HH,2.283,#N/A,N,Burn
+43158,The_Evergreen_State_College,site_31,47.065,-122.984,B,8/11/16,HH,3.0076,#N/A,N,Burn
+13950,The_Evergreen_State_College,site_31,47.065,-122.984,B,8/14/16,EHB,5.1152,#N/A,Y,None
+99997,The_Evergreen_State_College,site_31,47.065,-122.984,B,8/14/16,EHB,7.0878,#N/A,N,Pinched End of Fruit
+73989,The_Evergreen_State_College,site_31,47.065,-122.984,B,8/14/16,EHB,8.8626,#N/A,N,Nippled End
+80953,The_Evergreen_State_College,site_31,47.065,-122.984,B,8/14/16,EHB,4.1957,#N/A,Y,None
+80953,The_Evergreen_State_College,site_31,47.065,-122.984,B,8/14/16,EHB,4.0742,#N/A,N,Fruit Dented
+14167,The_Evergreen_State_College,site_31,47.065,-122.984,B,10/14/16,EB,10.8611,#N/A,Y,-
+98847,The_Evergreen_State_College,site_31,47.065,-122.984,B,10/15/16,EB,12.1905,#N/A,Y,-
+62465,The_Evergreen_State_College,site_31,47.065,-122.984,B,10/24/16,EB,5.3511,#N/A,N,Side catface
+42714,The_Evergreen_State_College,site_31,47.065,-122.984,O,8/13/16,HH,5.0645,#N/A,N,Burn
+96454,The_Evergreen_State_College,site_31,47.065,-122.984,O,8/14/16,EHB,9.4796,#N/A,Y,None
+23662,The_Evergreen_State_College,site_31,47.065,-122.984,O,8/14/16,EHB,2.3945,#N/A,N,Pinched End of Fruit
+64677,The_Evergreen_State_College,site_31,47.065,-122.984,O,8/14/16,EHB,4.058,#N/A,N,Burn
+70136,The_Evergreen_State_College,site_31,47.065,-122.984,O,8/14/16,EHB,9.1936,#N/A,Y,None
+30130,The_Evergreen_State_College,site_31,47.065,-122.984,O,8/14/16,EHB,9.6056,#N/A,Y,None
+68104,The_Evergreen_State_College,site_31,47.065,-122.984,O,10/14/16,EB,9.5112,#N/A,N,Dessicated before ripened
+69991,Wendell_Berry,site_34,47.049,-122.872,B,8/14/16,EHB,5.237,#N/A,Y,None
+69991,Wendell_Berry,site_34,47.049,-122.872,B,8/14/16,EHB,4.1147,#N/A,Y,None
+54980,Wendell_Berry,site_34,47.049,-122.872,B,8/14/16,EHB,5.1882,#N/A,Y,None
+51078,Wendell_Berry,site_34,47.049,-122.872,B,8/14/16,EHB,4.0502,#N/A,N,Dent
+15070,Wendell_Berry,site_34,47.049,-122.872,B,8/14/16,EHB,1.5845,#N/A,N,Burn
+73414,Wendell_Berry,site_34,47.049,-122.872,B,8/14/16,EHB,12.2843,#N/A,Y,None
+69991,Wendell_Berry,site_34,47.049,-122.872,B,8/16/16,EHB,2.9628,#N/A,N,Dessicated
+74427,Wendell_Berry,site_34,47.049,-122.872,B,10/6/16,EB,5.2375,#N/A,N,Catface
+30233,Wendell_Berry,site_34,47.049,-122.872,B,10/6/16,EB,6.2304,#N/A,N,Small catface
+84195,Wendell_Berry,site_34,47.049,-122.872,B,10/6/16,EB,7.5054,#N/A,Y,-
+30233,Wendell_Berry,site_34,47.049,-122.872,B,10/21/16,EB,0.3827,#N/A,N,One receptacle fertilized
+4100,Wendell_Berry,site_34,47.049,-122.872,O,8/14/16,EHB,4.7294,#N/A,Y,None
+29842,Wendell_Berry,site_34,47.049,-122.872,O,8/14/16,EHB,3.0662,#N/A,Y,None
+29842,Wendell_Berry,site_34,47.049,-122.872,O,8/14/16,EHB,6.0396,#N/A,Y,None
+29842,Wendell_Berry,site_34,47.049,-122.872,O,8/14/16,EHB,7.2486,#N/A,Y,None
+29842,Wendell_Berry,site_34,47.049,-122.872,O,8/14/16,EHB,4.8412,#N/A,Y,None
+29842,Wendell_Berry,site_34,47.049,-122.872,O,8/14/16,EHB,5.1659,#N/A,Y,None
+16296,Wendell_Berry,site_34,47.049,-122.872,O,8/14/16,EHB,3.243,#N/A,Y,None
+25769,Wendell_Berry,site_34,47.049,-122.872,O,8/14/16,EHB,4.9555,#N/A,N,Burn
+25769,Wendell_Berry,site_34,47.049,-122.872,O,8/14/16,EHB,5.821,#N/A,Y,None
+87879,Wendell_Berry,site_34,47.049,-122.872,O,8/14/16,EHB,5.0914,#N/A,N,Nippled End
+87879,Wendell_Berry,site_34,47.049,-122.872,O,8/14/16,EHB,4.841,#N/A,N,Burn
+78214,Wendell_Berry,site_34,47.049,-122.872,O,8/14/16,EHB,4.1433,#N/A,N,Burn
+78214,Wendell_Berry,site_34,47.049,-122.872,O,8/15/16,EHB,2.8327,#N/A,N,Dessicated
+55457,Wendell_Berry,site_34,47.049,-122.872,O,9/29/16,KB,7.0367,#N/A,N,Small kink otherwise great
+41226,Wendell_Berry,site_34,47.049,-122.872,O,10/1/16,EB,1.2333,#N/A,N,Burn
+81112,Wendell_Berry,site_34,47.049,-122.872,O,10/2/16,EB,7.7907,#N/A,N,Linear dent in side
+40895,Wendell_Berry,site_34,47.049,-122.872,O,10/10/16,EB,7.1928,#N/A,N,Small dents
+88644,Wendell_Berry,site_34,47.049,-122.872,O,10/13/16,EB,2.5943,#N/A,N,Catface
+40895,Wendell_Berry,site_34,47.049,-122.872,O,10/14/16,EB,1.9552,#N/A,N,Catface
+2547,Wobbly_Cart,site_36,46.807,-123.11,B,8/2/16,EHB,6.1108,9,Y,None
+21963,Wobbly_Cart,site_36,46.807,-123.11,B,8/4/16,EHB,4.8439,9,N,Fruit Dented
+21906,Wobbly_Cart,site_36,46.807,-123.11,B,8/4/16,EHB,10.4526,9,N,Fruit Dented
+16907,Wobbly_Cart,site_36,46.807,-123.11,B,8/4/16,EHB,1.7864,9,N,Pinched End of Fruit (and small)
+85708,Wobbly_Cart,site_36,46.807,-123.11,B,8/5/16,HH,11.914,9,Y,None
+2547,Wobbly_Cart,site_36,46.807,-123.11,B,8/12/16,HH,4.8895,9,N,Burn
+39229,Wobbly_Cart,site_36,46.807,-123.11,B,8/13/16,HH,5.8191,9,N,Burn
+21906,Wobbly_Cart,site_36,46.807,-123.11,B,8/14/16,EHB,8.8633,9,Y,None
+12297,Wobbly_Cart,site_36,46.807,-123.11,B,9/17/16,EHB,8.3194,9,Y,None
+68328,Wobbly_Cart,site_36,46.807,-123.11,B,9/27/16,KB,0.4901,9,N,Small and catfaced
+15884,Wobbly_Cart,site_36,46.807,-123.11,O,8/6/16,HH,5.0444,9,N,Burn
+2676,Wobbly_Cart,site_36,46.807,-123.11,O,8/7/16,HH,5.5842,9,N,Fruit Dented
+2676,Wobbly_Cart,site_36,46.807,-123.11,O,8/7/16,HH,4.3331,9,Y,None
+31645,Wobbly_Cart,site_36,46.807,-123.11,O,8/7/16,HH,6.4387,9,N,Fruit Dented
+31645,Wobbly_Cart,site_36,46.807,-123.11,O,8/11/16,HH,8.818,9,Y,None
+85212,Wobbly_Cart,site_36,46.807,-123.11,O,8/12/16,HH,8.7053,9,Y,None
+69291,Wobbly_Cart,site_36,46.807,-123.11,O,8/14/16,EHB,10.0036,9,Y,None
+15884,Wobbly_Cart,site_36,46.807,-123.11,O,8/14/16,EHB,2.2412,9,N,Burn
+55652,Wobbly_Cart,site_36,46.807,-123.11,O,8/14/16,EHB,7.4583,9,Y,None
+21018,Wobbly_Cart,site_36,46.807,-123.11,O,9/17/16,EHB,8.4435,9,N,Dents
+26543,Wobbly_Cart,site_36,46.807,-123.11,O,9/18/16,EHB,4.9483,9,N,Small dents
+1256,Wobbly_Cart,site_36,46.807,-123.11,O,9/20/16,EHB,3.9594,9,N,Dents
